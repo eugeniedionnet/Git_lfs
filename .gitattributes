@@ -1,3 +1,6 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
 Example_Pandas filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
+dataSet/ratings.txt filter=lfs diff=lfs merge=lfs -text
+dataSet/users.txt filter=lfs diff=lfs merge=lfs -text
+dataSet/movies.txt filter=lfs diff=lfs merge=lfs -text
